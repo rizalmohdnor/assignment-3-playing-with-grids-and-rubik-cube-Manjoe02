@@ -2,9 +2,9 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
 by 
 
-**NAME**:
+**NAME**: Muhammad Aiman Bin Johari
 
-**Matric ID**
+**Matric ID** 2118131
 
 ## Objective
 
